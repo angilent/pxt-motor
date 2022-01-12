@@ -18,7 +18,7 @@
  */
 //% weight=10 color=#DF6721 icon="\uf013" block="DF-Driver"
 namespace motor {
-    const PCA9685_ADDRESS = 0x40
+    const PCA9685_ADDRESS = 0x70
     const MODE1 = 0x00
     const MODE2 = 0x01
     const SUBADR1 = 0x02
